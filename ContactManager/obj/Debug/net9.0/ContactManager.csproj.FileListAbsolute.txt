@@ -195,3 +195,4 @@ C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\refint\ContactManager.
 C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.pdb
 C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.genruntimeconfig.cache
 C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ref\ContactManager.dll
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.sourcelink.json

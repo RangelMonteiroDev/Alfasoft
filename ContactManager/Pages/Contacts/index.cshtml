@@ -1,0 +1,41 @@
+@page
+@model ContactManager.Pages.Contacts.IndexModel
+@{
+    ViewData["Title"] = "Contacts";
+}
+
+<h1>Contacts</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-primary">Add New</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Phone</th>
+            <th>Email</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var c in Model.Contacts)
+{
+        <tr>
+            <td>@c.ID</td>
+            <td>@c.Name</td>
+            <td>@c.ContactNumber</td>
+            <td>@c.Email</td>
+            <td>
+                <a asp-page="Details" asp-route-id="@c.ID">Details</a> |
+                <a asp-page="Edit"    asp-route-id="@c.ID">Edit</a> |
+                <form asp-page="Delete" asp-route-id="@c.ID" method="post" class="d-inline">
+                    <button class="btn btn-link p-0">Delete</button>
+                </form>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
