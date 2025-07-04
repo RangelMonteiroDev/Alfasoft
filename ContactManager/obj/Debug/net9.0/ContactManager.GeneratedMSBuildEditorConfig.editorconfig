@@ -28,6 +28,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/dotnet/Testes/Alfasoft/ContactManager/Pages/Contacts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/dotnet/Testes/Alfasoft/ContactManager/Pages/Contacts/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

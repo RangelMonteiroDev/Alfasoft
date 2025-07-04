@@ -1,0 +1,34 @@
+﻿@page
+@model ContactManager.Pages.Contacts.CreateModel
+@{
+    ViewData["Title"] = "Add Contact";
+}
+
+<h2>Add New Contact</h2>
+
+<form method="post">
+    <div>
+        <label asp-for="Contact.Name"></label>
+        <input asp-for="Contact.Name" />
+        <span asp-validation-for="Contact.Name"></span>
+    </div>
+
+    <div>
+        <label asp-for="Contact.ContactNumber"></label>
+        <input asp-for="Contact.ContactNumber" />
+        <span asp-validation-for="Contact.ContactNumber"></span>
+    </div>
+
+    <div>
+        <label asp-for="Contact.Email"></label>
+        <input asp-for="Contact.Email" />
+        <span asp-validation-for="Contact.Email"></span>
+    </div>
+
+    <button type="submit">Save</button>
+    <a asp-page="Index">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
