@@ -1,3 +1,12 @@
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.csproj.AssemblyReference.cache
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.AssemblyInfoInputs.cache
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.AssemblyInfo.cs
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.csproj.CoreCompileInputs.cache
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.MvcApplicationPartsAssemblyInfo.cache
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.RazorAssemblyInfo.cache
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.RazorAssemblyInfo.cs
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.sourcelink.json
 C:\dotnet\Testes\Alfasoft\ContactManager\bin\Debug\net9.0\appsettings.Development.json
 C:\dotnet\Testes\Alfasoft\ContactManager\bin\Debug\net9.0\appsettings.json
 C:\dotnet\Testes\Alfasoft\ContactManager\bin\Debug\net9.0\ContactManager.staticwebassets.runtime.json
@@ -105,14 +114,6 @@ C:\dotnet\Testes\Alfasoft\ContactManager\bin\Debug\net9.0\ru\Microsoft.CodeAnaly
 C:\dotnet\Testes\Alfasoft\ContactManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\dotnet\Testes\Alfasoft\ContactManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\dotnet\Testes\Alfasoft\ContactManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.csproj.AssemblyReference.cache
-C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
-C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.AssemblyInfoInputs.cache
-C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.AssemblyInfo.cs
-C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.csproj.CoreCompileInputs.cache
-C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.MvcApplicationPartsAssemblyInfo.cache
-C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.RazorAssemblyInfo.cache
-C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.RazorAssemblyInfo.cs
 C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\scopedcss\bundle\ContactManager.styles.css
 C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\scopedcss\projectbundle\ContactManager.bundle.scp.css
@@ -195,4 +196,7 @@ C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\refint\ContactManager.
 C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.pdb
 C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.genruntimeconfig.cache
 C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ref\ContactManager.dll
-C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net9.0\ContactManager.sourcelink.json
+C:\dotnet\Testes\Alfasoft\ContactManager\bin\Debug\net9.0\xunit.abstractions.dll
+C:\dotnet\Testes\Alfasoft\ContactManager\bin\Debug\net9.0\xunit.assert.dll
+C:\dotnet\Testes\Alfasoft\ContactManager\bin\Debug\net9.0\xunit.core.dll
+C:\dotnet\Testes\Alfasoft\ContactManager\bin\Debug\net9.0\xunit.execution.dotnet.dll

@@ -1,0 +1,9 @@
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net8.0\ContactManager.csproj.AssemblyReference.cache
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net8.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net8.0\ContactManager.AssemblyInfoInputs.cache
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net8.0\ContactManager.AssemblyInfo.cs
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net8.0\ContactManager.csproj.CoreCompileInputs.cache
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net8.0\ContactManager.MvcApplicationPartsAssemblyInfo.cache
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net8.0\ContactManager.RazorAssemblyInfo.cache
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net8.0\ContactManager.RazorAssemblyInfo.cs
+C:\dotnet\Testes\Alfasoft\ContactManager\obj\Debug\net8.0\ContactManager.sourcelink.json
