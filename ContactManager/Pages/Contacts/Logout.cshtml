@@ -1,0 +1,11 @@
+@page
+@model ContactManager.Pages.Contacts.LogoutModel
+@{
+    ViewData["Title"] = "Logout";
+}
+
+<form method="post">
+    @Html.AntiForgeryToken()
+    <button type="submit" class="btn btn-danger">Confirm logout</button>
+    <a asp-page="/Contacts/Index" class="btn btn-secondary">Cancel</a>
+</form>

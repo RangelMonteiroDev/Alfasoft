@@ -2,9 +2,11 @@ using ContactManager.Data;
 using ContactManager.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-
+using Microsoft.AspNetCore.Authorization;
 namespace ContactManager.Pages.Contacts;
 
+
+[Authorize]
 public class CreateModel : PageModel
 {
     private readonly ApplicationDbContext _context;

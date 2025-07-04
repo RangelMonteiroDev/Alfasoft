@@ -11,6 +11,19 @@
 </head>
 <body>
     <header>
+       @if (User.Identity?.IsAuthenticated ?? false)
+            {
+                <form asp-page="Contacts/Logout" method="post" class="d-inline">
+                    @Html.AntiForgeryToken()
+                    <button class="btn btn-link p-0">Logout</button>
+                </form>
+            }
+            else
+            {
+                <a asp-page="Contacts/Login" class="btn btn-link p-0">Login</a>
+            }
+
+
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-page="/Index">ContactManager</a>

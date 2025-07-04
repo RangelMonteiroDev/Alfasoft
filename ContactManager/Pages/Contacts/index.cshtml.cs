@@ -1,10 +1,12 @@
 using ContactManager.Data;
 using ContactManager.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 
 namespace ContactManager.Pages.Contacts;
 
+[AllowAnonymous]
 public class IndexModel : PageModel
 {
     private readonly ApplicationDbContext _ctx;

@@ -11,6 +11,15 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
         ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("MariaDB"))
     )
 );
+
+builder.Services.AddAuthentication("Cookies")
+    .AddCookie("Cookies", options =>
+    {
+        options.LoginPath = "/Contacts/Login";
+        options.LogoutPath = "/Contacts/Logout";
+    });
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -21,9 +30,13 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.UseStaticFiles();
+
 app.UseHttpsRedirection();
 
 app.UseRouting();
+app.UseAuthentication();
+app.UseAuthorization();
 
 app.UseAuthorization();
 
