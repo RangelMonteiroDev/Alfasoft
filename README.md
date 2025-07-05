@@ -23,6 +23,9 @@ Sistema de gerenciamento de contatos desenvolvido em **ASP.NET Core com Razor Pa
 ### 1. Suba o banco de dados com Docker:
 ```bash
 docker-compose up -d
+### Na string de Conexão subistitua "Sua Senha" pela minha senha que vocês enviaram oor email
+
+### Na string de Conexão subistitua "Seu Login" pelo meu login que vocês enviaram oor email
 
 ### Execute o projeto
 dotnet run --framework net9.0
